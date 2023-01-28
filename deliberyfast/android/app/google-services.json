@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "854502155459",
+    "project_id": "delibery-fast",
+    "storage_bucket": "delibery-fast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854502155459:android:d0de932ff51d94d5ba6e76",
+        "android_client_info": {
+          "package_name": "com.delibery.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854502155459-c0ne1vtk7r6d6nkp6guvteou08e9832o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.delibery.app",
+            "certificate_hash": "698cdb1c273b0661102bd6ce52359c98572ffca0"
+          }
+        },
+        {
+          "client_id": "854502155459-4bg0o924t2rcjcnq6uocucq2uoln259h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_clJ9X_RD7yCGcGX2HpaivNichcPOw_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854502155459-4bg0o924t2rcjcnq6uocucq2uoln259h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
