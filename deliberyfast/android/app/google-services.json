@@ -14,11 +14,35 @@
       },
       "oauth_client": [
         {
+          "client_id": "854502155459-1ptotkl549o61kgtcmonu230911flck6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.delibery.app",
+            "certificate_hash": "f6dc416349e2a34aa3054b90b73ba49daf97309f"
+          }
+        },
+        {
           "client_id": "854502155459-c0ne1vtk7r6d6nkp6guvteou08e9832o.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.delibery.app",
             "certificate_hash": "698cdb1c273b0661102bd6ce52359c98572ffca0"
+          }
+        },
+        {
+          "client_id": "854502155459-t0c929eijbtn3r63rc50thbdt9u4qsgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.delibery.app",
+            "certificate_hash": "63e7714bfea1fe84ec4dc7956301ed7de4e9b7a4"
+          }
+        },
+        {
+          "client_id": "854502155459-uc0togd2vm887qq3ti44pdv93t4cm78b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.delibery.app",
+            "certificate_hash": "b4a9535db65c61a07e62e716bde2753c4d7e376b"
           }
         },
         {
@@ -37,6 +61,13 @@
             {
               "client_id": "854502155459-4bg0o924t2rcjcnq6uocucq2uoln259h.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "854502155459-3qupn04g9hvv5q4fqigd62lmhs0ijami.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hy.delivery"
+              }
             }
           ]
         }
